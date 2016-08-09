@@ -1,0 +1,4 @@
+Company|Parent
+taco bell|YUM BRANDS INC
+google inc|Alphabet Inc
+jollibee|no parent found
